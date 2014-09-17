@@ -1,0 +1,20 @@
+{
+    "name": "paperray/cms",
+    "description": "a simple ioc binder",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "paperray",
+            "email": "paperraytanute@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+	"autoload": {
+        "psr-0": {
+            "Paperstreetmedia": "src/"
+        }
+    }
+}
